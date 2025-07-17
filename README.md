@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rakibul Islam
+### Hi👋, I'm Rakibul Islam
 #### SQA Engineer
 ![SQA Engineer](https://media.licdn.com/dms/image/v2/D5616AQGX_qFUebpfLg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736760536570?e=1755734400&v=beta&t=99a9NTOdLmFqKtffNydk5ZlPfCtcd118DLMFsCAiF7Q)
 
