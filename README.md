@@ -1,28 +1,30 @@
-### Hi👋, I'm Rakibul Islam
-#### SQA Engineer
-![SQA Engineer]([https://media.licdn.com/dms/image/v2/D5616AQGX_qFUebpfLg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736760536570?e=1755734400&v=beta&t=99a9NTOdLmFqKtffNydk5ZlPfCtcd118DLMFsCAiF7Q](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/474117534_2444371639235901_1802765870558059740_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=40sZh8GClIgQ7kNvwHYB7pD&_nc_oc=Admkb2IzdjHTuoPzw4YQddP_tllErzlBHlH33t25iYj9lGeo2ULEzKZynggg8PECfSM&_nc_zt=23&_nc_ht=scontent.fjsr11-1.fna&_nc_gid=2yYzQ6op583fKe-0Yz_kqQ&oh=00_AfsInNjU0QePSmEQbMK3O2_h4p1U6gk8SHtIhxzJvTN2YQ&oe=6998ECEB))
+<h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
+<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
-I'm always interested in learning about new QA/testing platforms and figuring out how to improve product performance or make it more secure. I hope my ongoing efforts to learn new tricks and strategies will extend to my interactions on the forum.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulislam39&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulislam39" /> </p>
 
-Skills: 
-✅ Playwright
-✅ JavaScript
-✅ WordPress Plugin Testing
-✅ API Testing (Postman, REST)
-✅ LCA (Low-Code Automation)
+- 🔭 I’m currently working on [FlexOrder](https://github.com/RakibulIslam39/flexorder-e2e-automation)
 
-- 🔭 I’m currently working on Automation Testing using Playwright (JavaScript) for WordPress plugins at WPPOOL 
-- 🌱 I’m currently learning Advanced API Testing with Postman and REST Assured 
-- 👯 I’m looking to collaborate on Test automation frameworks, WordPress plugin testing, and open-source QA projectsTest automation frameworks, WordPress plugin testing, and open-source QA projects 
-- 🤔 I’m looking for help with Improving CI/CD pipelines for test automation and integrating cross-browser testing 
-- 💬 Ask me about Automation Testing, Playwright, WordPress Plugin QA, Manual & Functional Testing 
-- 📫 How to reach me: 📧 Email: rakibul.cse.bubt@gmail.com   💼 LinkedIn: [Md. Rakibul Islam](https://www.linkedin.com/in/rakibul-islam08/) 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I started my QA journey from a CSE background. 
+- 🌱 I’m currently learning **Playwright**
 
+- 👯 I’m looking to collaborate on **Spreadsheet Automation**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RakibulIslam39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-islam08//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21381967/rakibul-islam)  
+- 👨‍💻 All of my projects are available at [https://github.com/RakibulIslam39](https://github.com/RakibulIslam39)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslam39)](https://github.com/anuraghazra/github-readme-stats)
+- 📝 I regularly write articles on [https://medium.com/@rakib.cse.bubt/automating-bulk-stock-sync-in-woocommerce-with-google-sheets-my-experience-with-flexstock-4a24c52bd18c](https://medium.com/@rakib.cse.bubt/automating-bulk-stock-sync-in-woocommerce-with-google-sheets-my-experience-with-flexstock-4a24c52bd18c)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibulIslam39&show_icons=true)  
+- 💬 Ask me about **Playwright, JavaScript, API**
+
+- 📫 How to reach me **rakibul.cse.bubt@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rakibul-islam08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-islam08" height="30" width="40" /></a>
+<a href="https://fb.com/tahsin.rakib29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tahsin.rakib29" height="30" width="40" /></a>
+<a href="https://medium.com/@mdrakibcse90366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdrakibcse90366" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulislam39&show_icons=true&locale=en&layout=compact" alt="rakibulislam39" /></p>
