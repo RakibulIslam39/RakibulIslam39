@@ -13,7 +13,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working on **[FlexOrder E2E Automation](https://github.com/RakibulIslam39/flexorder-e2e-automation-CI-template)** — a CI-integrated Playwright test suite for WooCommerce plugin testing
-- 🛒 Building automated test frameworks for **WooCommerce & WordPress plugins** with PHP (PHPUnit) + Playwright
+- 🛒 Building automated test frameworks for **WooCommerce & WordPress plugins** with Playwright
 - 🤖 Developed automation for **[LiveRecover](https://github.com/RakibulIslam39/liverecover_automation_testing)** — e-commerce cart recovery testing
 - 🌱 Deepening expertise in **Playwright, TypeScript, CI/CD pipelines & API testing**
 - 👯 Looking to collaborate on **Test Automation Frameworks & Spreadsheet Automation**
@@ -51,20 +51,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://jmeter.apache.org/images/logo.svg" alt="apache jmeter" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -75,6 +75,13 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/API_Testing-0052CC?style=for-the-badge" alt="API testing" />
+  <img src="https://img.shields.io/badge/Cross--browser_Testing-FF7139?style=for-the-badge" alt="Cross-browser testing" />
+  <img src="https://img.shields.io/badge/Regression_Testing-1F8A70?style=for-the-badge" alt="Regression testing" />
+  <img src="https://img.shields.io/badge/AI--assisted_Testing-8A2BE2?style=for-the-badge" alt="AI-assisted testing" />
 </p>
 
 ---
