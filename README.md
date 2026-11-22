@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakibul Islam</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=SQA+Engineer+from+Bangladesh+🇧🇩;Playwright+%7C+TypeScript+%7C+JavaScript;E2E+%7C+API+%7C+CI%2FCD+Automation;WooCommerce+%26+Plugin+Testing" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=SQA+Engineer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9%3BPlaywright+%7C+TypeScript+%7C+JavaScript%3BE2E+%7C+API+%7C+CI%2FCD+Automation%3BWooCommerce+%26+Plugin+Testing" alt="Typing SVG" />
 </p>
 
 <p align="center">
